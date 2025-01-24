@@ -26,10 +26,6 @@ NLTK: Natural Language Processing for query analysis.
 HTML/CSS/JavaScript: Frontend for creating the chatbot user interface.
 
 # Installation Instructions
-Clone this repository:
-
-git clone https://github.com/yashaswinikm242003/chatbot_project.git
-cd chatbot_project
-
+Clone the repository:
 Install the required dependencies: pip install -r requirements.txt
 Run the Flask app: python app.py
