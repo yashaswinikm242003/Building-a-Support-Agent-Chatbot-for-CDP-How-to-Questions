@@ -13,8 +13,11 @@ Advanced "How-to" Questions: The chatbot can answer more complex questions relat
 The following official documentation is used to retrieve information:
 
 Segment Documentation: Segment Docs
+
 mParticle Documentation: mParticle Docs
+
 Lytics Documentation: Lytics Docs
+
 Zeotap Documentation: Zeotap Docs
 # Technologies Used
 Python: Backend programming language.
