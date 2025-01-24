@@ -18,9 +18,13 @@ Lytics Documentation: Lytics Docs
 Zeotap Documentation: Zeotap Docs
 # Technologies Used
 Python: Backend programming language.
+
 Flask: Web framework to create the chatbot interface.
+
 NLTK: Natural Language Processing for query analysis.
+
 HTML/CSS/JavaScript: Frontend for creating the chatbot user interface.
+
 Installation Instructions
 Clone this repository:
 git clone https://github.com/yashaswinikm242003/chatbot_project.git
